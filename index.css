@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+body{
+    width: 1300px;
+    background-color: hsl(212, 45%, 89%);
+}
+.back{
+    text-align: center;
+    height: 100%;
+}
+.one{
+    margin:0 auto;
+    margin-top: 10%;
+    width: 20%;
+    height: 30%;
+   border-radius: 10px;
+    background-color: hsl(0, 0%, 100%);
+   
+}
+.barcode img{
+    width: 240px;
+    height: 240px;
+    border-radius: 8%;
+    padding: 10px;
+   
+}
+.par{
+    padding-bottom: 2%;
+}
+.par h3{
+      font-family:arial;
+      font-size: 17px;
+      font-weight: bolder;
+}
+.par p{
+      margin-top: 3%;
+      padding: 10px;
+      font-size: 14px;
+      color: darkgrey;
+}
